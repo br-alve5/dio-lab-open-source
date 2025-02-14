@@ -3,7 +3,8 @@
 ## Desenvolvedor Web
 ### Formado em Analise e Desenvolvimento de Sistemas
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-alves-78b7b432b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-alves-78b7b432b)
+
 
 ## Skills
 
